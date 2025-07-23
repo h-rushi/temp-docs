@@ -1,0 +1,111 @@
+Documnet JSON: 
+{
+  "type": "doc",
+  "content": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "I'm running Tiptap with Vue.js. 🎉"
+        }
+      ]
+    },
+    {
+      "type": "paragraph"
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 1
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "uhjhokdf"
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "kjhlkjlsa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "jhkhkdc"
+        }
+      ]
+    },
+    {
+      "type": "paragraph"
+    }
+  ]
+}
+
+Selected Text: ue.js. 🎉uhjhokdfkjhlkjlsajhk
+
+JSON Format: [
+  {
+    "type": "paragraph",
+    "content": [
+      {
+        "type": "text",
+        "text": "ue.js. 🎉"
+      }
+    ]
+  },
+  {
+    "type": "paragraph"
+  },
+  {
+    "type": "heading",
+    "attrs": {
+      "level": 1
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "uhjhokdf"
+      }
+    ]
+  },
+  {
+    "type": "blockquote",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "kjhlkjlsa"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "content": [
+      {
+        "type": "text",
+        "text": "jhk"
+      }
+    ]
+  }
+]
+
+
+TiptapEditor.vue:203 Selection Range: {from: 26, to: 65}
