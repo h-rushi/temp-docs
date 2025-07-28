@@ -1,0 +1,701 @@
+{
+  "type": "doc",
+  "content": [
+    {
+      "type": "paragraph",
+      "attrs": {
+        "textAlign": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "This is Normal Paragraph"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": {
+        "textAlign": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "This is on new line"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "textAlign": "left",
+        "level": 1
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "This is heading 1"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "textAlign": "left",
+        "level": 2
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "This is heading 2"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "textAlign": "left",
+        "level": 3
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "This is heading 3"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": {
+        "textAlign": "left"
+      }
+    },
+    {
+      "type": "paragraph",
+      "attrs": {
+        "textAlign": "left"
+      }
+    },
+    {
+      "type": "paragraph",
+      "attrs": {
+        "textAlign": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "This has "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "bold"
+        },
+        {
+          "type": "text",
+          "text": " text"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": {
+        "textAlign": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "This has "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "italic"
+            }
+          ],
+          "text": "italic"
+        },
+        {
+          "type": "text",
+          "text": " text"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": {
+        "textAlign": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "This has "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "strike"
+            }
+          ],
+          "text": "strike through"
+        },
+        {
+          "type": "text",
+          "text": " text"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": {
+        "textAlign": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "This has "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "underline"
+            }
+          ],
+          "text": "underlined"
+        },
+        {
+          "type": "text",
+          "text": " text"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": {
+        "textAlign": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "This had "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "highlight",
+              "attrs": {
+                "color": null
+              }
+            }
+          ],
+          "text": "highlighted"
+        },
+        {
+          "type": "text",
+          "text": " text"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": {
+        "textAlign": "left"
+      }
+    },
+    {
+      "type": "paragraph",
+      "attrs": {
+        "textAlign": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "This is left aligned"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": {
+        "textAlign": "center"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "This is center aligned"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": {
+        "textAlign": "right"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "This is right aligned"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": {
+        "textAlign": "justify"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "This is justify aligned"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": {
+        "textAlign": "justify"
+      }
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "justify"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "This is ul list one item one"
+                }
+              ]
+            },
+            {
+              "type": "bulletList",
+              "content": [
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": "justify"
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "This is ul list two item one"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": "justify"
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "This is ul list two item two"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bulletList",
+                      "content": [
+                        {
+                          "type": "listItem",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "attrs": {
+                                "textAlign": "justify"
+                              },
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "This is ul list three item one"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": "center"
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "This is ul list two item three center aligned"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "justify"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "This is ul list one item two"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "justify"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "This is ul list one item three"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": {
+        "textAlign": "justify"
+      }
+    },
+    {
+      "type": "orderedList",
+      "attrs": {
+        "start": 1,
+        "type": null
+      },
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "justify"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ordered list item one"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "justify"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ordered list item two"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": {
+        "textAlign": "justify"
+      }
+    },
+    {
+      "type": "blockquote",
+      "content": [
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "justify"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "This is blockquote yes block quote"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {
+            "textAlign": "justify"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "This is blockquote line two"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": {
+        "textAlign": "justify"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Below is horizontal rule "
+        }
+      ]
+    },
+    {
+      "type": "horizontalRule"
+    },
+    {
+      "type": "paragraph",
+      "attrs": {
+        "textAlign": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Below is chart"
+        }
+      ]
+    },
+    {
+      "type": "chartNode",
+      "attrs": {
+        "chartData": {
+          "chart": {
+            "type": "line"
+          },
+          "title": {
+            "text": "PFC 5Y Spread Curve (Last 6 Months)"
+          },
+          "xAxis": {
+            "type": "datetime",
+            "title": {
+              "text": "Date"
+            }
+          },
+          "yAxis": {
+            "title": {
+              "text": "Spread (bps)"
+            }
+          },
+          "series": [
+            {
+              "name": "5Y Spread",
+              "color": "#2e67c8",
+              "data": [
+                [1737331200000, 66],
+                [1737504000000, 72],
+                [1737590400000, 71],
+                [1738108800000, 71],
+                [1738195200000, 69],
+                [1738281600000, 70],
+                [1738627200000, 68],
+                [1740009600000, 81],
+                [1741132800000, 79],
+                [1741219200000, 81],
+                [1741305600000, 82],
+                [1741737600000, 81],
+                [1741824000000, 83],
+                [1742169600000, 79],
+                [1742256000000, 79],
+                [1742947200000, 84],
+                [1743033600000, 93],
+                [1743552000000, 68],
+                [1743638400000, 77],
+                [1743724800000, 67],
+                [1744070400000, 69],
+                [1744156800000, 74],
+                [1744329600000, 71],
+                [1744761600000, 71],
+                [1744848000000, 75],
+                [1745193600000, 75],
+                [1745539200000, 72],
+                [1746662400000, 79],
+                [1747094400000, 81],
+                [1747180800000, 82],
+                [1747785600000, 75],
+                [1748217600000, 78],
+                [1748304000000, 78],
+                [1748390400000, 77],
+                [1748476800000, 79],
+                [1748563200000, 80],
+                [1748908800000, 83],
+                [1748995200000, 74],
+                [1749168000000, 80],
+                [1749600000000, 70],
+                [1749686400000, 72],
+                [1749772800000, 51],
+                [1750032000000, 58],
+                [1750118400000, 67],
+                [1750291200000, 64],
+                [1750377600000, 56],
+                [1750636800000, 56],
+                [1750723200000, 75],
+                [1750809600000, 72],
+                [1750896000000, 72],
+                [1750982400000, 71],
+                [1751241600000, 70]
+              ]
+            }
+          ],
+          "tooltip": {
+            "pointFormat": "Spread: {point.y} bps"
+          },
+          "legend": {
+            "enabled": true
+          },
+          "plotOptions": {
+            "line": {
+              "marker": {
+                "enabled": false
+              }
+            }
+          }
+        },
+        "isAiGenerated": true
+      }
+    },
+    {
+      "type": "horizontalRule"
+    },
+    {
+      "type": "paragraph",
+      "attrs": {
+        "textAlign": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Below is image"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "attrs": {
+        "src": "https://thumbs.dreamstime.com/b/innovative-medical-device-featuring-eye-image-illustrating-advanced-tracking-technology-generated-ai-358374352.jpg",
+        "alt": "Image placeholder",
+        "title": null,
+        "width": null,
+        "height": null
+      }
+    },
+    {
+      "type": "horizontalRule"
+    },
+    {
+      "type": "paragraph",
+      "attrs": {
+        "textAlign": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Below is DataTable"
+        }
+      ]
+    },
+    {
+      "type": "dataTableNode",
+      "attrs": {
+        "tableData": {
+          "title": "New Table",
+          "columns": [
+            {
+              "field": "name",
+              "header": "Name",
+              "sortable": true
+            },
+            {
+              "field": "email",
+              "header": "Email",
+              "sortable": true
+            },
+            {
+              "field": "role",
+              "header": "Role",
+              "sortable": false
+            }
+          ],
+          "data": [
+            {
+              "name": "John Doe",
+              "email": "john@example.com",
+              "role": "Admin"
+            },
+            {
+              "name": "Jane Smith",
+              "email": "jane@example.com",
+              "role": "User"
+            }
+          ],
+          "options": {
+            "showGridlines": true,
+            "size": "small"
+          }
+        }
+      }
+    },
+    {
+      "type": "horizontalRule"
+    },
+    {
+      "type": "paragraph",
+      "attrs": {
+        "textAlign": "left"
+      }
+    }
+  ]
+}
